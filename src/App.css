@@ -1,0 +1,14 @@
+@import 'tailwindcss';
+@plugin "@tailwindcss/typography";
+@plugin "daisyui" {
+  themes: winter --default, dracula --prefersdark;
+}
+
+@layer components {
+  .section-container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 0 1rem;
+    width: 95vw;
+  }
+}
