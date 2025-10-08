@@ -8,6 +8,7 @@ For this project, an existing API was used—no backend was manually created. Th
 ### Links
 - **API Documentation:** [Postman Docs](https://documenter.getpostman.com/view/18152321/2s9Xy5KpTi)  
 - **Original Project:** [Live Demo](https://react-vite-comfy-store-v2.netlify.app/)
+- **Personal Clone:** [Live Demo](https://comfy-store-react-yt.netlify.app/)
 
 ## Tech Stack
 - **React** – Frontend framework  
